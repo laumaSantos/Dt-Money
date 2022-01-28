@@ -49,8 +49,16 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@types/react-modal": "^3.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laumaSantos/dt-money.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laumaSantos/dt-money/issues"
+  },
+  "homepage": "https://github.com/laumaSantos/dt-money#readme",
+  "description": ""
 }
